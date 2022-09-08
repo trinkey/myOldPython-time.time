@@ -1,7 +1,7 @@
 import time, math
 
 # more text things (1 = yes, 0 = no)
-m = 1
+m = 0
 
 # zone (1 = EST, 0 = UTC)
 e = 1
